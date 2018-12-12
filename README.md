@@ -4,6 +4,8 @@
 
 Python Flask with Travis CI Demo, credits to [this blog post](https://matthewmoisen.com/blog/how-to-set-up-travis-ci-with-github-for-a-python-project/)
 
+Using [Flask](http://flask.pocoo.org/docs/1.0/quickstart/), [Nose](https://nose.readthedocs.io/en/latest/), [Coverage](https://coverage.readthedocs.io/en/v4.5.x/) and [Travis-CI](https://travis-ci.org)
+
 ## Python Testing:
 
 - [Difference between Unit Testing and Integration Testing](https://stackoverflow.com/questions/5357601/whats-the-difference-between-unit-tests-and-integration-tests)
