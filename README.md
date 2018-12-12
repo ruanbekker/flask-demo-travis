@@ -8,6 +8,8 @@ Python Flask with Travis CI Demo, credits to [this blog post](https://matthewmoi
 
 - [Difference between Unit Testing and Integration Testing](https://stackoverflow.com/questions/5357601/whats-the-difference-between-unit-tests-and-integration-tests)
 
+Resources:
+
 - http://pythontesting.net/framework/nose/nose-introduction/
 - https://www.saltycrane.com/blog/2012/04/test-coverage-nose-and-coveragepy/
 - https://wiki.python.org/moin/UsingAssertionsEffectively
