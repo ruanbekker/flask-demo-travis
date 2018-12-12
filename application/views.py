@@ -6,5 +6,9 @@ app = Flask(__name__)
 def index():
     return 'Hello, World', 200
 
+@app.route('/status', methods=['GET'])
+def status():
+    return jsonify({"status": "OK"})
+
 if __name__ == '__main__':
     app.run()
